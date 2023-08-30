@@ -1,8 +1,10 @@
 # MPC-TOOL
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diogocosta2449/CTF-TOOL-mpc/MPC.png" width="500" title="MPC">
+![Screenshot_1](https://github.com/DiogoCosta2449/CTF-TOOL-mpc/assets/62213627/79bb36cb-eb56-463c-907d-1545674d307f)
+
 </p>
+
+
 
 ## What is the MPC
 
@@ -33,6 +35,6 @@ sudo apt-get install python3
 
 ## Usage:
 ```
-Python3 MPC-TOOL.py
+./MPC
 
 ```
