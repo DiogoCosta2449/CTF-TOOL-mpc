@@ -1,4 +1,4 @@
-# MPC-TOOL
+# MPC
 
 ![Screenshot_1](https://github.com/DiogoCosta2449/CTF-TOOL-mpc/assets/62213627/79bb36cb-eb56-463c-907d-1545674d307f)
 
