@@ -1,6 +1,7 @@
 # MPC
 
-![Screenshot_1](https://github.com/DiogoCosta2449/CTF-TOOL-mpc/assets/62213627/6c91651c-245b-482b-a28f-ef57d14f66f6)
+![Screenshot_2](https://github.com/DiogoCosta2449/CTF-TOOL-mpc/assets/62213627/ef194a50-786a-43ac-960e-4e63d04a3fc0)
+
 
 
 </p>
